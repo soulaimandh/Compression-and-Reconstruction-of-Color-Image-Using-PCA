@@ -1,5 +1,7 @@
 # Compression and Reconstruction of Color Image Using PCA
 
+During my study of High-dimensional statistics, I opted to undertake some enjoyable projects in order to gain a deeper understanding of the concepts. One such project involved reconstructing a [600,600,3] RGB image using PCA, which is documented in this repository. To fully comprehend this undertaking, a solid grasp of eigendecomposition and covariance matrix may be necessary. Additionally, I have created another repository containing Python code that covers these concepts using Numpy. Please feel free to peruse it!
+
 ## The input image:
 
 <div align="center">
