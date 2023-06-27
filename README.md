@@ -1,27 +1,27 @@
 # Compression and Reconstruction of Color Image Using PCA
 
-# The input image:
+## The input image:
 
 <div align="center">
-  <img src="src.jpg" width="80%"/>
+  <img src="src.jpg" width="50%"/>
 </div>
 
-# 100 Principal Components:
+## 100 Principal Components:
 
 <div align="center">
-  <img src="./demo/20.jpg" width="80%"/>
+  <img src="./demo/20.jpg" width="50%"/>
 </div>
 
-# 300 Principal Components:
+## 300 Principal Components:
 
 <div align="center">
-  <img src="./demo/50.jpg" width="80%"/>
+  <img src="./demo/50.jpg" width="50%"/>
 </div>
 
-# 600 Principal Components:
+## 600 Principal Components:
 
 <div align="center">
-  <img src="./demo/100.jpg" width="80%"/>
+  <img src="./demo/100.jpg" width="50%"/>
 </div>
 
 
