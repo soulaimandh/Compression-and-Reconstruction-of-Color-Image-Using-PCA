@@ -3,7 +3,7 @@
 ## The input image:
 
 <div align="center">
-  <img src="src.jpg" width="50%"/>
+  <img src="./demo/src.jpg" width="50%"/>
 </div>
 
 ## 100 Principal Components:
